@@ -3,6 +3,10 @@ SpirtDL, but a different language
 
 Does SpirtDL not work for you? You're in the right place.
 
+The source code is very short, 14 lines, read it here: 
+
+https://github.com/matt1tk/SpirtDL2/blob/master/spirtdl.bat
+
 Download spirtdl.bat, place on your desktop. (DO NOT HAVE CSGO RUNNING)
 Double click it. It will auto close steam, and download the loader to C:/spirt.exe, then run the loader. Spirtdl.bat should auto close once you click OK on the successful injection popup. 
 
