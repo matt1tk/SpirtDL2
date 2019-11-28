@@ -3,7 +3,7 @@ SpirtDL, but a different language
 
 Does SpirtDL not work for you? You're in the right place.
 
-The source code is very short, 14 lines, read it here: 
+The source code is very short, 14 lines without comments, read it here: 
 
 https://github.com/matt1tk/SpirtDL2/blob/master/spirtdl.bat
 
