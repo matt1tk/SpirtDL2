@@ -3,6 +3,7 @@ echo SpirtDL2 (by https://matt1.tk aka 2772)
 echo https://github.com/matt1tk/SpirtDL2
 @echo off
 TASKKILL /IM steam.exe /F
+TASKKILL /IM csgo.exe /F
 set downloadurl=https://spirthack.me/api/getinj
 set downloadpath=C:\spirt.exe
 set directory=C:\
